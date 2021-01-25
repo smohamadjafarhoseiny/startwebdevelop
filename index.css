@@ -1,0 +1,65 @@
+/*site bakgruond #FAF8DA*/
+body{
+	background-color: #13122f;
+	font-family:'B nazanin',tahoma;
+	margin: 0;
+
+}
+.eng-flag{
+	width: 50px;
+}
+.primary-header{
+	text-align: center;
+}
+.main-heading{
+	color: #ff00e2;
+	font-size: 75px;
+	margin-top: 2px;
+	padding-top: 40px;
+}
+.town-preview{
+	width: 650px;
+}
+.store-section{
+	display: flex;
+	margin: 50px auto;
+	width: 450px;
+}
+.building{
+	width: 200px;
+}
+.store-div{
+	margin-right: 30px;
+}
+.category-headig{
+	color: #ff00a5;
+	font-size: 35px;
+	text-align: right;
+}
+.store-list{
+	color: #ff003f;
+	padding-right: 20px;
+}
+.store-name{
+	margin-bottom: 10px;
+}
+.store-link{
+	color: #1fffc7;
+	font-size: 25px;
+	text-decoration: none;
+}
+.primary-footer{
+	background-color: rgba(25, 24, 73, 0.96);
+	padding: 1px;
+	text-align: center;
+}
+.footer-fontstyle{
+	color: #1fffc7;
+	font-size: 25PX;
+}
+.matn{
+	color: #FFFFFF;
+	font-size: 25px;
+	text-align: right;
+	padding: 10px;
+}
